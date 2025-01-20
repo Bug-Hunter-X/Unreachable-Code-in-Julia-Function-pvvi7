@@ -1,0 +1,2 @@
+# Unreachable Code in Julia
+This repository demonstrates an example of unreachable code in a Julia function. The function has a conditional statement where the return statement is always executed before reaching the end of the function.  This may cause unexpected behavior or compilation errors if not carefully checked. The solution shows a corrected version of the function.
